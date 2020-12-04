@@ -9,8 +9,7 @@ int main(){
     
     area =  pi * raio * raio;
 
-    printf("A area do retangulo eh %.1f\n\n", area);
+    printf("A area da circunferencia eh %.1f\n\n", area);
     
 	system("PAUSE");
 }
-
