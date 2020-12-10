@@ -1,0 +1,3 @@
+As variáveis incializadas são "a = 9" e "b = 0".
+A expressão "if ((a > 11) && (++b <= 100))" retornará falso pois a < 11.
+Portanto será impresso o valor da expresão "a - b", que será 9.

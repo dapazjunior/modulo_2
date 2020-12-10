@@ -1,0 +1,7 @@
+A saída será:
+
+1
+1
+1
+
+Como não foi colocado "break" ao final dos casos teste, todos serão executados.

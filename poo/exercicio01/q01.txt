@@ -1,0 +1,6 @@
+javac Avaliacao
+javac Avaliacao.java
+
+Correto:
+javac Avaliacao.java
+java Avaliacao
