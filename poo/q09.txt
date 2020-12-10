@@ -1,2 +1,0 @@
-As questões 7 e 8 tem abordagem mais orientada a objetos,
-mais modularizada e reutilizável e também mais burocrática.
