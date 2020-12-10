@@ -2,7 +2,7 @@
 
 package exercicio01;
 
-public class MensagemSaudacao {
+public class Saudacao {
 	String texto, destinatario;
 	
 	String obterSaudacao() {
