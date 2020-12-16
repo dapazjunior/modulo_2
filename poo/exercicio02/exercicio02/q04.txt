@@ -1,0 +1,10 @@
+void x(double valor) {
+    valor = valor + valor;
+}
+
+O problema consiste em atributo e parâmetro terem o mesmo nome (valor).
+Corrigido:
+
+void x(double valor) {
+    this.valor = valor + valor;
+}

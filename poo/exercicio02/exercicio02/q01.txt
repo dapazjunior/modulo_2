@@ -1,0 +1,1 @@
+Não, a classe atribuirá um valor inteiro para a variável.

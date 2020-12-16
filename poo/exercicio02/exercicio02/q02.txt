@@ -1,0 +1,1 @@
+Erro, pois na classe Hotel não há um método que solicite um inteiro como parâmetro.

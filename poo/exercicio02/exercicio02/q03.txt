@@ -1,0 +1,2 @@
+Retorna o valor "0", pois o atributo a não foi iniciado,
+assim é atribuido a ele esse valor.
