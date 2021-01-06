@@ -18,7 +18,8 @@ int main(){
     
     printf("%i", soma);
 	
-	printf("\n\n");
+	  
+    printf("\n\n");
     system("PAUSE");
 
 }
